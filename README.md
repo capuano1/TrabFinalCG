@@ -8,5 +8,7 @@ Integrantes:
 - Luca de Paula Nascimento Lima 140427
 - Tales Miguel Machado Pereira 140247
 - Thiago Corso Capuano 163996
+
 Jogo:
 Labirinto da Unifesp
+Linguagem de programação: C
